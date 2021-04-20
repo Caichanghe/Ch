@@ -1,0 +1,17 @@
+Index: src/Computer/Ccpu.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Computer/Ccpu.java b/src/Computer/Ccpu.java
+--- a/src/Computer/Ccpu.java	(date 1617709100759)
++++ b/src/Computer/Ccpu.java	(date 1617709100759)
+@@ -11,7 +11,7 @@
+         this.cpuzp = cpuzp;
+     }
+ 
+-    
++
+     @Override
+     public String getPinPai() {
+         return cpupaizi ;
